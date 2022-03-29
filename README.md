@@ -1,4 +1,4 @@
-# password-manager
+# Password Manager
 
 ### Done:
 - 
