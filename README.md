@@ -1,6 +1,8 @@
 # password-manager
 
 ### Done:
+- 
+- 
 
 ### ToDo:
 - Design UI
