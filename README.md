@@ -1,8 +1,8 @@
-### password-manager
+# password-manager
 
-# Done:
+### Done:
 
-# ToDo:
+### ToDo:
 - Design UI
 - Create the GUI in PyQt5
 - Connect to a database 
